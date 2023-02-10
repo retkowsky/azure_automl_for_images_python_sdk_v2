@@ -1,5 +1,7 @@
 # AutoML for Images Python notebook templates for Azure ML SDK v2
 
+<img src="computer_vision_banner.png">
+
 ## Content
 AutoML is an Azure Machine Learning feature, that empowers both professional and citizen data scientists to build machine learning models rapidly. Since its launch, AutoML has helped accelerate model building for essential machine learning tasks like Classification, Regression and Time-series Forecasting.
 

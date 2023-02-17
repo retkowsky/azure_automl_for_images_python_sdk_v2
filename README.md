@@ -9,9 +9,19 @@ There is as well some Computer Vision algorithms available with AutoML for Image
 
 You can find here some Python notebooks templates you can use for your computer vision projects with Azure ML:
 
-- Image Classification <a href="url">Demo notebook</a>
-- Object Detection <a href="url">Demo notebook</a>
-- Instance Segmentation <a href="url">Demo notebook</a>
+- Image Classification<br>
+<a href="https://github.com/retkowsky/azure_automl_for_images_python_sdk_v2/blob/main/Azure%20AutoML%20for%20Images%20-%20Flowers%20Classification%20-%20SDK%20v2.ipynb">Image Classification Demo notebook</a>
+
+- Object Detection<br>
+<a href="https://github.com/retkowsky/azure_automl_for_images_python_sdk_v2/blob/main/AutoML%20for%20Images%20-%20Mask%20Object%20Detection%20-%20Downloading%20images%20and%20labels.ipynb">Object Detection  Demo notebook (part 1)</a>
+<a href="https://github.com/retkowsky/azure_automl_for_images_python_sdk_v2/blob/main/AutoML%20for%20Images%20-%20Mask%20Object%20Detection%20-%20AzureML%20sdkV2.ipynb">Demo Object Detection  Demo notebook (part 2)</a>
+
+- Instance Segmentation<br>
+<a href="https://github.com/retkowsky/azure_automl_for_images_python_sdk_v2/blob/main/AutoML%20for%20Images%20-%20Instance%20Segmentation.ipynb">Demo notebook</a>
+
+- Calling deployed model as an Azure ML endpoint<br>
+<a href="https://github.com/retkowsky/azure_automl_for_images_python_sdk_v2/blob/main/Calling%20Azure%20ML%20managed%20endpoint.ipynb">Oject detection model</a>
+<a href="https://github.com/retkowsky/azure_automl_for_images_python_sdk_v2/blob/main/Calling%20the%20Instance%20Segmentation%20deployed%20model.ipynb">Instanced segmentation model</a>
 
 ## Documentation
 - What is AutoML for Images? https://docs.microsoft.com/en-us/azure/machine-learning/concept-automated-ml#computer-vision-preview

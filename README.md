@@ -9,9 +9,9 @@ There is as well some Computer Vision algorithms available with AutoML for Image
 
 You can find here some Python notebooks templates you can use for your computer vision projects with Azure ML:
 
-- Image Classification
-- Object Detection
-- Instance Segmentation
+- Image Classification <a href="url">Demo notebook</a>
+- Object Detection <a href="url">Demo notebook</a>
+- Instance Segmentation <a href="url">Demo notebook</a>
 
 ## Documentation
 - What is AutoML for Images? https://docs.microsoft.com/en-us/azure/machine-learning/concept-automated-ml#computer-vision-preview
